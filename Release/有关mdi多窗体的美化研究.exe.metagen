@@ -1,0 +1,62 @@
+  有关mdi多窗体的美化研究.主窗体.resources - Embedded, ContainedInManifestFile, 
+  有关mdi多窗体的美化研究.子窗体1.resources - Embedded, ContainedInManifestFile, 
+  有关mdi多窗体的美化研究.子窗体2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly 有关mdi多窗体的美化研究, Version=0.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly 日志控件, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=None, flags=None
+Class 有关mdi多窗体的美化研究.子窗体1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 有关mdi多窗体的美化研究.子窗体2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Stop(): PrivateScope, Public, HideBySig
+Class 有关mdi多窗体的美化研究.主窗体: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class 有关mdi多窗体的美化研究.主窗体+class_t: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 km9_t 'get set' : 
+    Int32 km8_t 'get set' : 
+    Int32 km7_t 'get set' : 
+    Int32 km6_t 'get set' : 
+    Int32 km5_t 'get set' : 
+    Int32 km4_t 'get set' : 
+    Int32 km3_t 'get set' : 
+    Int32 km2_t 'get set' : 
+    Int32 km1_t 'get set' : 
+  Methods:
+    get_km1_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km1_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km2_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km2_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km3_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km3_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km4_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km4_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km5_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km5_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km6_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km6_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km7_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km7_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km8_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km8_t(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_km9_t(): PrivateScope, Public, HideBySig, SpecialName
+    set_km9_t(Int32): PrivateScope, Public, HideBySig, SpecialName

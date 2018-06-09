@@ -1,0 +1,5 @@
+﻿  主窗体.cpp
+e:\clr\有关mdi多窗体的美化研究\有关mdi多窗体的美化研究\子窗体2.h(80): warning C4947: “System::Threading::Thread::Suspend”: 标记为已过时
+  e:\clr\有关mdi多窗体的美化研究\有关mdi多窗体的美化研究\子窗体2.h(80): note: 消息: “Thread.Suspend has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202”
+  有关mdi多窗体的美化研究.vcxproj -> E:\clr\有关mdi多窗体的美化研究\Release\有关mdi多窗体的美化研究.exe
+  有关mdi多窗体的美化研究.vcxproj -> E:\clr\有关mdi多窗体的美化研究\Release\有关mdi多窗体的美化研究.pdb (Full PDB)
